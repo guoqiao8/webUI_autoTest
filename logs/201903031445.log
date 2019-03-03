@@ -1,0 +1,148 @@
+2019-03-03 14:45:54,343 - BrowserEngine - INFO - 成功获取浏览器
+2019-03-03 14:45:54,343 - BrowserEngine - INFO - 成功获取url
+2019-03-03 14:45:56,913 - BrowserEngine - INFO - Starting chrome browser
+2019-03-03 14:45:57,637 - BrowserEngine - INFO - open url: http://127.0.0.1/forum.php
+2019-03-03 14:45:57,641 - BrowserEngine - INFO - Set implicitly wait 10 seconds
+2019-03-03 14:45:57,818 - BaseTest - INFO - 输入内容：guoqiao
+2019-03-03 14:45:57,951 - BaseTest - INFO - 输入内容：guoqiao
+2019-03-03 14:45:58,046 - BaseTest - INFO - ('css selector', '#lsform > div > div > table > tbody > tr:nth-child(2) > td.fastlg_l > button')按钮点击成功
+2019-03-03 14:45:58,703 - BaseTest - INFO - 成功找页面元素---('css selector', '.vwmy')
+2019-03-03 14:45:58,748 - BaseTest - INFO - 获取文本成功
+2019-03-03 14:46:01,764 - BaseTest - INFO - 激活当前窗口成功
+2019-03-03 14:46:02,236 - BaseTest - INFO - ('css selector', '#category_1 > table > tbody > tr:nth-child(1) > td:nth-child(2) > h2 > a')按钮点击成功
+2019-03-03 14:46:02,329 - BaseTest - INFO - 成功找页面元素---('css selector', '.xs2 > a')
+2019-03-03 14:46:02,370 - BaseTest - INFO - 获取文本成功
+2019-03-03 14:46:05,381 - BaseTest - INFO - 激活当前窗口成功
+2019-03-03 14:46:05,912 - BaseTest - INFO - ('css selector', '#newspecial > img')按钮点击成功
+2019-03-03 14:46:06,061 - BaseTest - INFO - 输入内容：软件测试1
+2019-03-03 14:46:06,085 - BaseTest - INFO - 已能找到frame
+2019-03-03 14:46:06,266 - BaseTest - INFO - 输入内容：自动化测试11111
+2019-03-03 14:46:06,270 - BaseTest - INFO - 激活当前窗口成功
+2019-03-03 14:46:06,440 - BaseTest - INFO - ('id', 'postsubmit')按钮点击成功
+2019-03-03 14:46:07,648 - BaseTest - INFO - 成功找页面元素---('css selector', '#thread_subject')
+2019-03-03 14:46:07,703 - BaseTest - INFO - 获取文本成功
+2019-03-03 14:46:07,711 - BaseTest - INFO - 激活当前窗口成功
+2019-03-03 14:46:07,940 - BaseTest - INFO - 输入内容：Good job!!!!!!!!
+2019-03-03 14:46:08,304 - BaseTest - INFO - ('id', 'fastpostsubmit')按钮点击成功
+2019-03-03 14:46:10,310 - BaseTest - INFO - 激活当前窗口成功
+2019-03-03 14:46:10,689 - BaseTest - INFO - ('css selector', '#um > p:nth-child(2) > a:nth-child(12)')按钮点击成功
+2019-03-03 14:46:13,386 - BaseTest - INFO - 成功找页面元素---('css selector', '#lsform > div > div > table > tbody > tr:nth-child(2) > td.fastlg_l > button')
+2019-03-03 14:46:15,671 - BrowserEngine - INFO - 成功获取浏览器
+2019-03-03 14:46:15,671 - BrowserEngine - INFO - 成功获取url
+2019-03-03 14:46:18,174 - BrowserEngine - INFO - Starting chrome browser
+2019-03-03 14:46:18,907 - BrowserEngine - INFO - open url: http://127.0.0.1/forum.php
+2019-03-03 14:46:18,911 - BrowserEngine - INFO - Set implicitly wait 10 seconds
+2019-03-03 14:46:19,080 - BaseTest - INFO - 输入内容：admin
+2019-03-03 14:46:19,194 - BaseTest - INFO - 输入内容：admin
+2019-03-03 14:46:19,279 - BaseTest - INFO - ('css selector', '#lsform > div > div > table > tbody > tr:nth-child(2) > td.fastlg_l > button')按钮点击成功
+2019-03-03 14:46:19,860 - BaseTest - INFO - 成功找页面元素---('css selector', '.vwmy')
+2019-03-03 14:46:19,900 - BaseTest - INFO - 获取文本成功
+2019-03-03 14:46:24,914 - BaseTest - INFO - 激活当前窗口成功
+2019-03-03 14:46:25,433 - BaseTest - INFO - ('css selector', '#category_1 > table > tbody > tr:nth-child(1) > td:nth-child(2) > h2 > a')按钮点击成功
+2019-03-03 14:46:25,515 - BaseTest - INFO - 成功找页面元素---('css selector', '.xs2 > a')
+2019-03-03 14:46:25,596 - BaseTest - INFO - 获取文本成功
+2019-03-03 14:46:27,603 - BaseTest - INFO - 激活当前窗口成功
+2019-03-03 14:46:28,802 - BaseTest - INFO - ('xpath', '//*[@id="threadlisttableid"]/tbody[2]/tr/th/a[2]')按钮点击成功
+2019-03-03 14:46:29,097 - BaseTest - INFO - ('css selector', '#modmenu > a:nth-child(1)')按钮点击成功
+2019-03-03 14:46:29,792 - BaseTest - INFO - ('name', 'modsubmit')按钮点击成功
+2019-03-03 14:46:32,960 - BaseTest - INFO - ('css selector', '#um > p:nth-child(2) > a:nth-child(16)')按钮点击成功
+2019-03-03 14:46:32,972 - BaseTest - INFO - 激活页面成功
+2019-03-03 14:46:34,127 - BaseTest - INFO - 输入内容：admin
+2019-03-03 14:46:54,834 - BaseTest - INFO - ('css selector', '#loginform > p.loginnofloat > input')按钮点击成功
+2019-03-03 14:46:54,842 - BaseTest - INFO - 激活当前窗口成功
+2019-03-03 14:46:55,152 - BaseTest - INFO - ('id', 'header_forum')按钮点击成功
+2019-03-03 14:46:58,171 - BaseTest - INFO - 激活页面成功
+2019-03-03 14:46:58,191 - BaseTest - INFO - 已能找到frame
+2019-03-03 14:46:58,373 - BaseTest - INFO - ('xpath', '//*[@class="lastboard"]/a')按钮点击成功
+2019-03-03 14:46:58,686 - BaseTest - INFO - 输入内容：runajianceshi
+2019-03-03 14:46:59,036 - BaseTest - INFO - ('id', 'submit_editsubmit')按钮点击成功
+2019-03-03 14:46:59,044 - BaseTest - INFO - 激活当前窗口成功
+2019-03-03 14:46:59,568 - BaseTest - INFO - ('css selector', '#frameuinfo > p:nth-child(1) > a')按钮点击成功
+2019-03-03 14:46:59,900 - BaseTest - INFO - ('css selector', '#um > p:nth-child(2) > a:nth-child(18)')按钮点击成功
+2019-03-03 14:47:02,161 - BaseTest - INFO - 成功找页面元素---('css selector', '#lsform > div > div > table > tbody > tr:nth-child(2) > td.fastlg_l > button')
+2019-03-03 14:47:04,310 - BaseTest - INFO - 输入内容：guoqiao
+2019-03-03 14:47:04,427 - BaseTest - INFO - 输入内容：guoqiao
+2019-03-03 14:47:04,507 - BaseTest - INFO - ('css selector', '#lsform > div > div > table > tbody > tr:nth-child(2) > td.fastlg_l > button')按钮点击成功
+2019-03-03 14:47:05,038 - BaseTest - INFO - 成功找页面元素---('css selector', '.vwmy')
+2019-03-03 14:47:05,081 - BaseTest - INFO - 获取文本成功
+2019-03-03 14:47:08,081 - BaseTest - INFO - 激活当前窗口成功
+2019-03-03 14:47:08,454 - BaseTest - INFO - ('css selector', '#category_1 > table > tbody > tr:nth-child(2) > td:nth-child(2) > h2 > a')按钮点击成功
+2019-03-03 14:47:11,461 - BaseTest - INFO - 激活当前窗口成功
+2019-03-03 14:47:11,945 - BaseTest - INFO - ('css selector', '#newspecial > img')按钮点击成功
+2019-03-03 14:47:12,080 - BaseTest - INFO - 输入内容：软件测试1
+2019-03-03 14:47:12,100 - BaseTest - INFO - 已能找到frame
+2019-03-03 14:47:12,267 - BaseTest - INFO - 输入内容：自动化测试11111
+2019-03-03 14:47:12,276 - BaseTest - INFO - 激活当前窗口成功
+2019-03-03 14:47:12,440 - BaseTest - INFO - ('id', 'postsubmit')按钮点击成功
+2019-03-03 14:47:13,482 - BaseTest - INFO - 成功找页面元素---('css selector', '#thread_subject')
+2019-03-03 14:47:13,537 - BaseTest - INFO - 获取文本成功
+2019-03-03 14:47:13,543 - BaseTest - INFO - 激活当前窗口成功
+2019-03-03 14:47:13,790 - BaseTest - INFO - 输入内容：Good job!!!!!!!!
+2019-03-03 14:47:14,166 - BaseTest - INFO - ('id', 'fastpostsubmit')按钮点击成功
+2019-03-03 14:47:16,175 - BaseTest - INFO - 激活当前窗口成功
+2019-03-03 14:47:16,434 - BaseTest - INFO - ('css selector', '#um > p:nth-child(2) > a:nth-child(12)')按钮点击成功
+2019-03-03 14:47:18,980 - BaseTest - INFO - 成功找页面元素---('css selector', '#lsform > div > div > table > tbody > tr:nth-child(2) > td.fastlg_l > button')
+2019-03-03 14:47:21,270 - BrowserEngine - INFO - 成功获取浏览器
+2019-03-03 14:47:21,270 - BrowserEngine - INFO - 成功获取url
+2019-03-03 14:47:23,763 - BrowserEngine - INFO - Starting chrome browser
+2019-03-03 14:47:24,470 - BrowserEngine - INFO - open url: http://127.0.0.1/forum.php
+2019-03-03 14:47:24,474 - BrowserEngine - INFO - Set implicitly wait 10 seconds
+2019-03-03 14:47:24,637 - BaseTest - INFO - 输入内容：guoqiao
+2019-03-03 14:47:24,763 - BaseTest - INFO - 输入内容：guoqiao
+2019-03-03 14:47:24,850 - BaseTest - INFO - ('css selector', '#lsform > div > div > table > tbody > tr:nth-child(2) > td.fastlg_l > button')按钮点击成功
+2019-03-03 14:47:25,396 - BaseTest - INFO - 成功找页面元素---('css selector', '.vwmy')
+2019-03-03 14:47:25,435 - BaseTest - INFO - 获取文本成功
+2019-03-03 14:47:28,440 - BaseTest - INFO - 激活当前窗口成功
+2019-03-03 14:47:28,584 - BaseTest - INFO - 输入内容：haotest
+2019-03-03 14:47:28,720 - BaseTest - INFO - ('name', 'searchsubmit')按钮点击成功
+2019-03-03 14:47:28,733 - BaseTest - INFO - 激活页面成功
+2019-03-03 14:47:29,923 - BaseTest - INFO - ('css selector', '.xs3 a')按钮点击成功
+2019-03-03 14:47:29,935 - BaseTest - INFO - 激活页面成功
+2019-03-03 14:47:31,029 - BaseTest - INFO - 成功找页面元素---('id', 'thread_subject')
+2019-03-03 14:47:31,060 - BaseTest - INFO - 获取文本成功
+2019-03-03 14:47:31,070 - BaseTest - INFO - 激活当前窗口成功
+2019-03-03 14:47:31,360 - BaseTest - INFO - ('css selector', '#um > p:nth-child(2) > a:nth-child(12)')按钮点击成功
+2019-03-03 14:47:33,922 - BaseTest - INFO - 成功找页面元素---('css selector', '#lsform > div > div > table > tbody > tr:nth-child(2) > td.fastlg_l > button')
+2019-03-03 14:47:36,180 - BrowserEngine - INFO - 成功获取浏览器
+2019-03-03 14:47:36,180 - BrowserEngine - INFO - 成功获取url
+2019-03-03 14:47:38,729 - BrowserEngine - INFO - Starting chrome browser
+2019-03-03 14:47:39,476 - BrowserEngine - INFO - open url: http://127.0.0.1/forum.php
+2019-03-03 14:47:39,480 - BrowserEngine - INFO - Set implicitly wait 10 seconds
+2019-03-03 14:47:39,662 - BaseTest - INFO - 输入内容：guoqiao
+2019-03-03 14:47:39,781 - BaseTest - INFO - 输入内容：guoqiao
+2019-03-03 14:47:39,879 - BaseTest - INFO - ('css selector', '#lsform > div > div > table > tbody > tr:nth-child(2) > td.fastlg_l > button')按钮点击成功
+2019-03-03 14:47:40,489 - BaseTest - INFO - 成功找页面元素---('css selector', '.vwmy')
+2019-03-03 14:47:40,533 - BaseTest - INFO - 获取文本成功
+2019-03-03 14:47:43,540 - BaseTest - INFO - 激活当前窗口成功
+2019-03-03 14:47:44,034 - BaseTest - INFO - ('css selector', '#category_1 > table > tbody > tr:nth-child(1) > td:nth-child(2) > h2 > a')按钮点击成功
+2019-03-03 14:47:44,141 - BaseTest - INFO - 成功找页面元素---('css selector', '.xs2 > a')
+2019-03-03 14:47:44,180 - BaseTest - INFO - 获取文本成功
+2019-03-03 14:47:46,193 - BaseTest - INFO - 激活当前窗口成功
+2019-03-03 14:47:46,233 - BaseTest - INFO - 成功找页面元素---('css selector', '#newspecial > img')
+2019-03-03 14:47:46,288 - BaseTest - INFO - 鼠标悬停成功
+2019-03-03 14:47:46,840 - BaseTest - INFO - ('class name', 'poll')按钮点击成功
+2019-03-03 14:47:47,011 - BaseTest - INFO - 输入内容：你最擅长的语言
+2019-03-03 14:47:47,136 - BaseTest - INFO - 输入内容：Java
+2019-03-03 14:47:47,277 - BaseTest - INFO - 输入内容：Python
+2019-03-03 14:47:47,388 - BaseTest - INFO - 输入内容：C++
+2019-03-03 14:47:47,580 - BaseTest - INFO - ('id', 'postsubmit')按钮点击成功
+2019-03-03 14:47:48,830 - BaseTest - INFO - 成功找页面元素---('id', 'pollsubmit')
+2019-03-03 14:47:50,876 - BaseTest - INFO - 激活当前窗口成功
+2019-03-03 14:47:50,957 - BaseTest - INFO - ('id', 'option_1')按钮点击成功
+2019-03-03 14:47:51,758 - BaseTest - INFO - ('id', 'pollsubmit')按钮点击成功
+2019-03-03 14:47:51,800 - BaseTest - INFO - 成功找页面元素---('css selector', '.pcht > table > tbody > tr:nth-child(7) > td')
+2019-03-03 14:47:51,846 - BaseTest - INFO - 获取文本成功
+2019-03-03 14:47:53,853 - BaseTest - INFO - 激活当前窗口成功
+2019-03-03 14:47:53,952 - BaseTest - INFO - 成功找页面元素---('css selector', '.pvt')
+2019-03-03 14:47:54,143 - BaseTest - INFO - 成功找页面元素---('css selector', '#poll > .pcht > table > tbody > tr > td:nth-child(2)')
+2019-03-03 14:47:54,198 - BaseTest - INFO - 成功找页面元素---('id', 'thread_subject')
+2019-03-03 14:47:54,240 - BaseTest - INFO - 获取文本成功
+2019-03-03 14:47:54,280 - BaseTest - INFO - 获取文本成功
+2019-03-03 14:47:54,389 - BaseTest - INFO - 获取文本成功
+2019-03-03 14:47:54,420 - BaseTest - INFO - 获取文本成功
+2019-03-03 14:47:54,442 - BaseTest - INFO - 获取文本成功
+2019-03-03 14:47:54,460 - BaseTest - INFO - 获取文本成功
+2019-03-03 14:47:54,500 - BaseTest - INFO - 获取文本成功
+2019-03-03 14:47:54,508 - BaseTest - INFO - 激活当前窗口成功
+2019-03-03 14:47:54,829 - BaseTest - INFO - ('css selector', '#um > p:nth-child(2) > a:nth-child(12)')按钮点击成功
+2019-03-03 14:47:57,358 - BaseTest - INFO - 成功找页面元素---('css selector', '#lsform > div > div > table > tbody > tr:nth-child(2) > td.fastlg_l > button')
